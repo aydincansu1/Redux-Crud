@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "b2a8d6da-8a44-4308-aab5-fd2d60edbf5b",
+      "text": "fdf",
+      "is_done": false,
+      "created_at": "18.02.2024"
+    },
+    {
+      "id": "ffa9ee94-c285-4cae-b434-ce62636325a0",
+      "text": "f",
+      "is_done": false,
+      "created_at": "18.02.2024"
+    },
+    {
+      "id": "cb43a76d-c213-49e3-85ec-d8bf924dca14",
+      "text": "f",
+      "is_done": false,
+      "created_at": "18.02.2024"
+    },
+    {
+      "id": "7beb7274-10c3-4057-af2e-cd6a0c0f4d1e",
+      "text": "df",
+      "is_done": false,
+      "created_at": "18.02.2024"
+    }
+  ]
+}

@@ -9,6 +9,8 @@ Bu proje, Redux kullanarak temel CRUD işlemlerini (Oluşturma, Okuma, Güncelle
 - Redux Thunk (API ile asenkron işlemler için)
 - Axios (API ile HTTP istekleri için)
 - React Router
+# Ekran görüntüsü
+![Redux Crud](https://github.com/aydincansu1/Redux-Crud/assets/134061696/63f8e8e5-4db9-4ff8-abb2-ebe3a50380f4)
 
 # State Yonetimi
 

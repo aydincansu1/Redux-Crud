@@ -1,3 +1,15 @@
+
+
+# Redux CRUD Projesi
+Bu proje, Redux kullanarak temel CRUD işlemlerini (Oluşturma, Okuma, Güncelleme, Silme) gerçekleştirmek için bir API ile entegre bir örnek sunar. Bir not defteri uygulaması üzerinde çalışıldığı varsayılmıştır.
+
+# Teknolojiler
+- React.js
+- Redux
+- Redux Thunk (API ile asenkron işlemler için)
+- Axios (API ile HTTP istekleri için)
+- React Router
+
 # State Yonetimi
 
 - State: Uygulamadaki bilesenlerimizin sahip oldugu bilgi ve ozellikler
